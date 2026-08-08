@@ -8,3 +8,5 @@ for i in range(n-2):
             arr[i][0] == arr[i+1][0] == arr[i+2][0]:
                 res.append([arr[i][0], arr[i][1] + 1])
 print(min(res))
+
+privet tvari
